@@ -1,0 +1,15 @@
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\bin\Debug\MIU.ExamReservation.Mapping.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\bin\Debug\MIU.ExamReservation.Mapping.pdb
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\obj\Debug\MIU.ExamReservation.Mapping.csprojAssemblyReference.cache
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\obj\Debug\MIU.ExamReservation.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\obj\Debug\MIU.ExamReservation.Mapping.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\obj\Debug\MIU.ExamReservation.Mapping.pdb
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\bin\Debug\MIU.ExamReservation.Mapping.dll.config
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\bin\Debug\AutoMapper.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\bin\Debug\MIU.ExamReservation.Domain.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\bin\Debug\MIU.ExamReservation.DTO.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\bin\Debug\MIU.ExamReservation.Domain.pdb
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\bin\Debug\MIU.ExamReservation.DTO.pdb
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\bin\Debug\AutoMapper.xml
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\obj\Debug\MIU.ExamReservation.Mapping.csproj.CopyComplete
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Mapping\bin\Debug\MIU.ExamReservation.Domain.dll.config

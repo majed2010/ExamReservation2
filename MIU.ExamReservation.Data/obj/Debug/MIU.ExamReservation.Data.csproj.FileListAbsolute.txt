@@ -1,0 +1,15 @@
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\bin\Debug\MIU.ExamReservation.Data.dll.config
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\bin\Debug\MIU.ExamReservation.Data.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\bin\Debug\MIU.ExamReservation.Data.pdb
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\bin\Debug\EntityFramework.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\bin\Debug\MIU.ExamReservation.Domain.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\bin\Debug\MIU.ExamReservation.Domain.pdb
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\bin\Debug\EntityFramework.xml
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\obj\Debug\MIU.ExamReservation.Data.csprojAssemblyReference.cache
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\obj\Debug\MIU.ExamReservation.Data.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\obj\Debug\MIU.ExamReservation.Data.csproj.CopyComplete
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\obj\Debug\MIU.ExamReservation.Data.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\obj\Debug\MIU.ExamReservation.Data.pdb
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Data\bin\Debug\MIU.ExamReservation.Domain.dll.config

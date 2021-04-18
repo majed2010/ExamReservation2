@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIU.ExamReservation.Data", "MIU.ExamReservation.Data\MIU.ExamReservation.Data.csproj", "{88535476-DB7B-4166-93AE-D3AE1701AA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIU.ExamReservation.DTO", "MIU.ExamReservation.DTO\MIU.ExamReservation.DTO.csproj", "{2B00F8E8-D89C-4D89-9EF3-0CCC7EAB35F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIU.ExamReservation.Domain", "MIU.ExamReservation.Domain\MIU.ExamReservation.Domain.csproj", "{55D233D5-E010-4233-AE46-2010EB7057A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIU.ExamReservation.Mapping", "MIU.ExamReservation.Mapping\MIU.ExamReservation.Mapping.csproj", "{CF43C539-3377-4FA8-A396-B8D80ABF9231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIU.ExamReservation.API", "MIU.ExamReservation.API\MIU.ExamReservation.API.csproj", "{30B340DB-DD8D-4652-9AE0-B606AA5C5D90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIU.ExamReservation.Service", "MIU.ExamReservation.Service\MIU.ExamReservation.Service.csproj", "{FFC24C09-A92C-4E83-A7B9-D2D66E5E5314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88535476-DB7B-4166-93AE-D3AE1701AA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88535476-DB7B-4166-93AE-D3AE1701AA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88535476-DB7B-4166-93AE-D3AE1701AA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88535476-DB7B-4166-93AE-D3AE1701AA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B00F8E8-D89C-4D89-9EF3-0CCC7EAB35F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B00F8E8-D89C-4D89-9EF3-0CCC7EAB35F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B00F8E8-D89C-4D89-9EF3-0CCC7EAB35F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B00F8E8-D89C-4D89-9EF3-0CCC7EAB35F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D233D5-E010-4233-AE46-2010EB7057A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D233D5-E010-4233-AE46-2010EB7057A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D233D5-E010-4233-AE46-2010EB7057A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D233D5-E010-4233-AE46-2010EB7057A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF43C539-3377-4FA8-A396-B8D80ABF9231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF43C539-3377-4FA8-A396-B8D80ABF9231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF43C539-3377-4FA8-A396-B8D80ABF9231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF43C539-3377-4FA8-A396-B8D80ABF9231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B340DB-DD8D-4652-9AE0-B606AA5C5D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B340DB-DD8D-4652-9AE0-B606AA5C5D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B340DB-DD8D-4652-9AE0-B606AA5C5D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B340DB-DD8D-4652-9AE0-B606AA5C5D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC24C09-A92C-4E83-A7B9-D2D66E5E5314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC24C09-A92C-4E83-A7B9-D2D66E5E5314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC24C09-A92C-4E83-A7B9-D2D66E5E5314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC24C09-A92C-4E83-A7B9-D2D66E5E5314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B78CF15E-632A-423B-B74D-465C9CF6B209}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.DTO\bin\Debug\MIU.ExamReservation.DTO.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.DTO\bin\Debug\MIU.ExamReservation.DTO.pdb
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.DTO\obj\Debug\MIU.ExamReservation.DTO.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.DTO\obj\Debug\MIU.ExamReservation.DTO.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.DTO\obj\Debug\MIU.ExamReservation.DTO.pdb
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.DTO\obj\Debug\MIU.ExamReservation.DTO.csprojAssemblyReference.cache
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.DTO\bin\Debug\MIU.ExamReservation.Domain.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.DTO\bin\Debug\MIU.ExamReservation.Domain.pdb
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.DTO\bin\Debug\MIU.ExamReservation.Domain.dll.config
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.DTO\obj\Debug\MIU.ExamReservation.DTO.csproj.CopyComplete

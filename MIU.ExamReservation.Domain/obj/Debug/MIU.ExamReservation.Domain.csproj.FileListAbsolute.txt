@@ -1,0 +1,13 @@
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\bin\Debug\MIU.ExamReservation.Domain.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\bin\Debug\MIU.ExamReservation.Domain.pdb
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\obj\Debug\MIU.ExamReservation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\obj\Debug\MIU.ExamReservation.Domain.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\obj\Debug\MIU.ExamReservation.Domain.pdb
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\obj\Debug\MIU.ExamReservation.Domain.csprojAssemblyReference.cache
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\bin\Debug\MIU.ExamReservation.Domain.dll.config
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\bin\Debug\EntityFramework.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\bin\Debug\MIU.Domain.dll
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\bin\Debug\EntityFramework.xml
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mohamed.majed\source\repos\MIU.ExamReservation\MIU.ExamReservation.Domain\obj\Debug\MIU.ExamReservation.Domain.csproj.CopyComplete
